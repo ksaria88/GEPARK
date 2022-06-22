@@ -21,3 +21,5 @@ Descripción técnica
     5. Se creó el procedimiento almacenado CalcularValorPagar que permite realizar el cálculo del valor que debe pagar el conductor de acuerdo a la hora de ingreso.
     
     6.  Se creó el procedimiento almacenado ValidarEntradaParqueadero que valide antes de ingresar al parqueadero si todas las capacidades están ocupadas.
+    
+    7. No se incluyeron validaciones de campos vacíos porque el Front-End que consuma los webservice debe encargarse de estos tipos de validaciones.
