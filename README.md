@@ -1,6 +1,6 @@
 # GEPARK
     • Aplicativo backend para gestionar parqueaderos
-    • Se adjunta diagrama de clases con las reglas del negocio y diagrama entidad-relación ubicados dentro de la carpeta Modelado.
+    • Se adjunta diagrama de clases con las reglas del negocio y diagrama entidad-relación ubicados dentro de la carpeta Diagramas.
     • Se adjunta base de datos en SqlServer 2017. Está ubicada en la carpeta BaseDatos
 
 Descripción técnica
